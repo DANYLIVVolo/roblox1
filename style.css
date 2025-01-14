@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+ background-color: black;
+}
+
+header img{
+    float:;
+}
+
+main{
+background-color: grey;
+height: 150px;
+}
+
+footer{
+background-color: black;
+}
+
+footer img{
+    
+}
+
+nav a{
+    text-decoration: none;
+    background-color: lightgray;
+    color: black;
+    margin: 15px;
+    padding: 5px;
+    border-radius: 15px;
+
+}
+
+h1{
+    text-align: center;
+    color: lightgray;
+}
+nav{
+        display: flex;
+    justify-content: space-between;
+}
+
+h3{
+    color: white
+}
+
+
+.left{
+display:flex;
+}
+
+.ridth{
+display:flex ;
+}
